@@ -1,4 +1,4 @@
-**https://claireattias.github.io/leaflet-challenge/**
+**https://claireattias.github.io/Leaflet/**
 
 This activity visualizes United States Geological Survey earthquake data.
 
